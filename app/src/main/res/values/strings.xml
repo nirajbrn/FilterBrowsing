@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filter Search</string>
+    <string name="redirect_message">Redirecting to default page</string>
+    <string name="url">https://www.google.com/search?q=%1$s</string>
+    <string name="error_text">Can\'t show Blocked Text</string>
+    <string name="search_text">Enter Text to Search</string>
+</resources>
